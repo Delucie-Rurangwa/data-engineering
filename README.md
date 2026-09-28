@@ -4,9 +4,10 @@
 Of 96,470 delivered orders, 8.1% arrived after the promised date and 4.4% were more than 5 days late, so this is not a nationwide failure but a regional one: the Northeast runs at 14.3% late versus 7.5% for the rest of Brazil, with Alagoas (23.9%), Maranhao (19.7%) and Piaui (16.0%) worst, and high-volume Rio de Janeiro at 13.5%. Late delivery clearly drives bad reviews: On Time orders average 4.29 stars, Late orders 3.46 and Super Late orders 1.79. The CEO's "wrong estimates" hunch is half right: nationally we over-pad (median promise 23 days vs 10 actual), but in 13 states, including the Northeast and Rio, the promise is too tight, and extending estimates only there would cut the late rate from 8.1% to 5.6% without changing operations.
 
 ## B. Project Links
-- **Notebook (HTML export with charts):** `veridi_last_mile_audit.html` in this repo | **Notebook link:** <add GitHub / nbviewer link>
-- **Dashboard:** <add Streamlit Cloud link after deploying app.py>
-- **Presentation:** `Veridi_Delivery_Audit.pdf` / `.pptx` in this repo | **Public link:** <add Google Drive link, "Anyone with the link can view">
+- **Repository:** https://github.com/Delucie-Rurangwa/data-engineering
+- **Notebook:** https://github.com/Delucie-Rurangwa/data-engineering/blob/main/veridi_last_mile_audit.ipynb (HTML export with charts: `veridi_last_mile_audit.html`, also in this repo)
+- **Dashboard:** https://data-engineering-bvgnsnuqzcxys9ahtuaift.streamlit.app/
+- **Presentation:** https://drive.google.com/file/d/1qUFZlkmLV-2Dr7cMSPhllvHtcox05U9f/view?usp=sharing (PDF/PPTX also in this repo)
 - **Video (optional):** <YouTube link>
 
 ## C. Technical Explanation
