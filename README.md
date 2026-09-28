@@ -8,7 +8,6 @@ Of 96,470 delivered orders, 8.1% arrived after the promised date and 4.4% were m
 - **Notebook:** https://github.com/Delucie-Rurangwa/data-engineering/blob/main/veridi_last_mile_audit.ipynb (HTML export with charts: `veridi_last_mile_audit.html`, also in this repo)
 - **Dashboard:** https://data-engineering-bvgnsnuqzcxys9ahtuaift.streamlit.app/
 - **Presentation:** https://drive.google.com/file/d/1qUFZlkmLV-2Dr7cMSPhllvHtcox05U9f/view?usp=sharing (PDF/PPTX also in this repo)
-- **Video (optional):** <YouTube link>
 
 ## C. Technical Explanation
 **Data cleaning**
