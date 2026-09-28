@@ -1,0 +1,5 @@
+# raw Olist data (do not commit)
+olist_*.csv
+product_category_name_translation.csv
+__pycache__/
+.ipynb_checkpoints/
